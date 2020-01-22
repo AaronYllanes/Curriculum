@@ -1,0 +1,92 @@
+header {
+    float: left 
+     
+}
+    
+        
+
+header img{
+    border-radius: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    }
+    
+    header hgroup{
+        text-align: center;
+        color: yellow;
+    }
+
+
+    div{
+        background-color: teal;
+        margin-right:26px;
+        height: 1000px;
+        color: white;
+    }
+
+    #infocontacto{
+
+        text-align: center;
+    }
+
+main{
+    
+  
+    width: 1000px;
+    height:1000px;
+    background-image: url(https://previews.123rf.com/images/cifotart/cifotart1604/cifotart160400015/54933982-lluvia-de-ideas-es-el-cerebro-y-el-rayo-de-energ%C3%ADa-idea-de-negocio-creativa-l%C3%A1mpara-para-la-innovaci%C3%B3n-y-el.jpg);
+    font-size: 20px;
+    color: white    ;
+    font-weight: bold;
+
+}    
+
+#explaboral {
+
+    margin-bottom: 100px;
+}
+
+#infocontacto h3 {
+
+    color:  yellow;
+}
+
+#conocimientos {
+   display:inline-block;
+   margin-bottom: 100px;
+   margin-left: 100px;
+}
+
+#habilidades {
+    display:inline-block;
+    margin-bottom: 100px;
+}
+
+#infointeres{
+
+    margin-bottom: 100px;
+}
+
+#estudios{
+    margin-bottom: 100px;
+    
+    
+}
+
+h3{
+    color:yellow;
+}
+
+
+
+
+
+
+
+.icono {
+
+widows: 20px;
+height: 25px;
+
+
+}
